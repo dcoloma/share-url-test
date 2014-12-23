@@ -1,5 +1,5 @@
 {
-  "name": "Loop Test Activities",
+  "name": "LoopTestActivities",
   "version": "0.0.1",
   "description": "Super simple app to test Loop Activities",
   "main": "index.js",
@@ -19,3 +19,4 @@
     "grunt-contrib-copy": "~0.7.0",
     "node-firefoxos-cli": "git://github.com/dcoloma/node-firefoxos-cli#refactor"
   }
+}
