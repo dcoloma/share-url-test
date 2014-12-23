@@ -1,0 +1,8 @@
+{
+  "name": "ShareUrl test",
+  "description": "ShareUrl test",
+  "launch_path": "/index.html",
+  "orientation": "portrait",
+  "version": "0.1",
+  "origin": "share.url.test"
+}
