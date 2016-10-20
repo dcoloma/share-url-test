@@ -31,7 +31,10 @@ You can just get the content of the app folder and install it via WebIDE, in tha
  b/ kill the app if it's already running in the device
  c/ install the generated version
  d/ and launch it with the URL passed as parameter
-
+asdf
+asdf
+asdf
+asdf
 ### push
  
  Additionally, you can also use:
@@ -76,6 +79,6 @@ List all the apps
   ```
 $ grunt listAllApps
    ```
-
+Añades una linea
  
  
